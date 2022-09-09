@@ -1,6 +1,6 @@
 # 491ASnowBallers
 
-## RFP 
+## [RFP](https://github.com/BlackSwiss/491ASnowBallers/blob/main/RFP.md)
 
 ## Elevator Pitch
 
