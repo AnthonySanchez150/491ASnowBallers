@@ -1,3 +1,5 @@
+# Introduction:
+
 The video game is a online multiplayer, virtual reality, player vs player game in which players face off in a snow ball fight to gain the most amount of points. Players are placed into a small area where they must use their accuracy to hit their opponents and positioning to dodge other players snowballs in order to be crowned the snowball king.
 
 # Business Requirements:
