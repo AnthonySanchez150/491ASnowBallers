@@ -4,5 +4,5 @@
 
 ## Elevator Pitch
 
-## Use Cases
+## [Use Cases](https://github.com/BlackSwiss/491ASnowBallers/blob/main/UseCases.md)
 
