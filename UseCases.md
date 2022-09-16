@@ -1,6 +1,6 @@
 # Use Cases
 
-| Use Case 1                  | Launch Game  |
+| Use Case 1 P0              | Launch Game  |
 |:----------------------------|:------------|
 | Actors                      | User        |
 | Pre-Conditions              | No running instance of game exists, User launching game from a windows desktop|
@@ -8,7 +8,7 @@
 | Error-Condition             | Game fails to launch, windows exe error window displays |
 | Non-Functional Requirements | Game should launch within 5-10 seconds |
 
-| Use Case 2                  | Host a lobby|
+| Use Case 2 P1                | Host a lobby|
 |:----------------------------|:------------|
 | Actors                      | Host        |
 | Pre-Conditions              | Host must create a connection to the network|
@@ -16,7 +16,7 @@
 | Error-Condition             | Network connection failure |
 | Non-Functional Requirements | Host a lobby with a push of a button, lobby should be available in 5 seconds |
 
-| Use Case 3                 | Connect to lobby|
+| Use Case 3 P1               | Connect to lobby|
 |:----------------------------|:------------|
 | Actors                      | Client        |
 | Pre-Conditions              | Lobby must be created by a host|
@@ -24,7 +24,7 @@
 | Error-Condition             | Network connection failure, User enter wrong information, Host leaves and server closes, Host + Client connection failure |
 | Non-Functional Requirements | Client should be able to connect via IPs, Client connects within 5 seconds to lobby |
 
-| Use Case 4                 | Disconnect a lobby|
+| Use Case 4 P2               | Disconnect a lobby|
 |:----------------------------|:------------|
 | Actors                      | Client       |
 | Pre-Conditions              | Client is connected to host, Press disconnect from host button or client closes game|
@@ -32,7 +32,7 @@
 | Error-Condition             |  |
 | Non-Functional Requirements | Client can disconnect from lobby within 5 seconds|
 
-| Use Case 5                 | Close lobby|
+| Use Case 5 P2              | Close lobby|
 |:----------------------------|:------------|
 | Actors                      | Host       |
 | Pre-Conditions              | Host is hosting a lobby, Press disconnect from lobby or close game|
@@ -40,7 +40,7 @@
 | Error-Condition             |  |
 | Non-Functional Requirements | Host can close and disconnect from network within 5 seconds|
 
-| Use Case 6                | Play game|
+| Use Case 6 P0              | Play game|
 |:----------------------------|:------------|
 | Actors                      | Host       |
 | Pre-Conditions              | Lobby connection established, Host starts game|
@@ -48,7 +48,7 @@
 | Error-Condition             |  Network connection failure, Host + client connection failure|
 | Non-Functional Requirements | Play game should be a button that the hosts presses to start spawning players in level, Game should start within 10 seconds after button is pushed|
 
-| Use Case 7                 | Spawn players|
+| Use Case 7 P0               | Spawn players|
 |:----------------------------|:------------|
 | Actors                      | Host + Client    |
 | Pre-Conditions              | Host started game, Lobby connection established|
@@ -56,7 +56,7 @@
 | Error-Condition             | Network connection failure, Host + client connection failure, Virtual Reality connection failure|
 | Non-Functional Requirements | Game will last 3 minutes, Game will end when win condition is met or time runs out|
 
-| Use Case 8                 | Hit User|
+| Use Case 8 P1               | Hit User|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | User hit other with snowball|
@@ -64,7 +64,7 @@
 | Error-Condition             | Hit detection failure, Server to client communication errors|
 | Non-Functional Requirements | The game should register the hit as soon as contact is made|
 
-| Use Case 9                 | "Reload" Snowball|
+| Use Case 9 P2                | "Reload" Snowball|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | User does not have snowball to throw|
@@ -72,7 +72,7 @@
 | Error-Condition             | Server to client communication errors|
 | Non-Functional Requirements | The game should register that the player now has a snowball|
 
-| Use Case 10                 | Movement|
+| Use Case 10 P2                | Movement|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | User presses a movement button on controller|
@@ -80,7 +80,7 @@
 | Error-Condition             | Server to client communication errors, Network lag, VR to PC delays|
 | Non-Functional Requirements | This movement should register and perform as soon as the users inputs a movement|
 
-| Use Case 11                 | End Game|
+| Use Case 11 P0                | End Game|
 |:----------------------------|:------------|
 | Actors                      | Host + Client   |
 | Pre-Conditions              | Game winning condition met (5 snowballs hit) or time limit has been reached|
@@ -88,7 +88,7 @@
 | Error-Condition             | Network connection failure, Host + client connection failure|
 | Non-Functional Requirements |Game end sequence will display text and/or animated sprites of winner|
 
-| Use Case 12                 | Return to menu|
+| Use Case 12 P1                | Return to menu|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | End game sequence finished|
@@ -96,7 +96,7 @@
 | Error-Condition             | Network connection failure|
 | Non-Functional Requirements |Game should disconnect within 10 seconds of game ending|
 
-| Use Case 13                 | Close game|
+| Use Case 13 P0                | Close game|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | User presses close game button|
@@ -105,7 +105,7 @@
 | Non-Functional Requirements |Game should close within 5 seconds of pressing button|
 
 
-| Use Case 14                | Enter game settings menu|
+| Use Case 14 P2               | Enter game settings menu|
 |:----------------------------|:------------|
 | Actors                      | User   |
 | Pre-Conditions              | Menu not shown to user, user presses options button|
