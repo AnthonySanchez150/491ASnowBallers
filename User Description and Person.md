@@ -1,4 +1,4 @@
-
+# User Description and Persona
 | Person 1              | Joe, Adult Gamer  |
 |:----------------------------|:------------|
 | Goals                      | Joe is looking for a VR game that is easy to learn, enjoyable, and stress free, especially after a long day of work.        |
