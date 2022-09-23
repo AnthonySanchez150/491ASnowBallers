@@ -14,7 +14,7 @@ Lack of multiplayer 1 vs 1 style games that do not include excessive violence an
 Play against your friends or someone online in this head-to-head virtual reality snowball fight to be crowned the snowball king.
 ## Describe your market
 Virtual Reality users (playing on PC) looking for a tame online player vs player experience to play with their friends. 
-### Who is your competition and how are you different?
+## Who is your competition and how are you different?
 | Our competition  | How are we different |
 | ------------- | ------------- |
 | Cowboys and Aliens (multiplayer VR where players have Western bar fights): https://store.steampowered.com/app/517670/Cowbots_and_Aliens/ | Our game is more appropriate for all ages where our weapon is just a snowball. |
