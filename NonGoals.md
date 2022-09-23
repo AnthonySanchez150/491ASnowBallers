@@ -1,2 +1,6 @@
 # Non-Goals
-This game only involves multiplayer and does not involve single player gameplay or a single player campaign. This game is not supported for mobile VR platforms and will only be focused for PC VR platforms. This game is not a game that can be played just on console or PC and will require the use of a VR headset and a PC. The multiplayer gameplay will be a single player against another single player and will not involve more than 2 players per session. This is a peer-to-peer multiplayer experience and will not involve a dedicated server for backend support.
+* Multiplayer experience, no single player
+* Restricted to PC VR platform, no mobile or console support
+* Requires a VR headset and compatible PC to play
+* Game can only be played with two players
+* Peer-to-peer network connection, no dedicated servers
