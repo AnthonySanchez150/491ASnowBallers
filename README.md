@@ -1,6 +1,6 @@
 # CECS 491A - Project SnowBallers
 
-![Snowball](snowball.jpg)
+![Snowball](resources/snowball.jpg)
 
 SnowBallers is an online player-versus-player virtual reality snowball fight simulator.  
 Play against friends or strangers in an intense battle to be crowned snowball king!
