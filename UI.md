@@ -1,14 +1,14 @@
 # Main Menu 
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/mainmenu.PNG)
+![Alt text](resources/mainmenu.PNG)
 # Online
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Online.PNG)
+![Alt text](resources/Online.PNG)
 # Options
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Options.PNG)
+![Alt text](resources/Options.PNG)
 # Lobby
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Lobby.PNG)
+![Alt text](resources/Lobby.PNG)
 # Connect
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Connect.PNG)
+![Alt text](resources/Connect.PNG)
 # Player UI
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Player%20UI.PNG)
+![Alt text](resources/Player%20UI.PNG)
 # Win Screen
-![Alt text](https://github.com/BlackSwiss/491ASnowBallers/blob/main/Win%20Screen.PNG)
+![Alt text](resources/Win%20Screen.PNG)
