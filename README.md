@@ -15,8 +15,8 @@ Play against friends or strangers in an intense battle to be crowned snowball ki
 |  Artifact  |  Date  |
 |:----------:|:------:|
 |[RFP](artifacts/RFP.md)|9-9-22|
-|[Elevator Pitch](artifacts/EleveatorPitch.md)|9-16-22|
-|[Use Cases](https://github.com/BlackSwiss/491ASnowBallers/blob/main/UseCases.md)|9-16-22|
+|[Elevator Pitch](artifacts/ElevatorPitch.md)|9-16-22|
+|[Use Cases](artifacts/UseCases.md)|9-16-22|
 |[User Description and Persona](artifacts/User%20Description%20and%20Person.md)|9-16-22|
 |[Non-Goals](artifacts/NonGoals.md)|9-23-22|
 |[UI/UX](artifacts/UI.md)|9-23-22|
