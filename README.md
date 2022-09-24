@@ -11,3 +11,5 @@
 ## [Non-Goals](https://github.com/BlackSwiss/491ASnowBallers/blob/main/NonGoals.md)
 
 ## [UI/UX](https://github.com/BlackSwiss/491ASnowBallers/blob/main/UI.md)
+
+## [Class Diagram](https://github.com/BlackSwiss/491ASnowBallers/blob/main/ClassDiagram.md)
