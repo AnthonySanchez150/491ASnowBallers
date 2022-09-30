@@ -2,7 +2,7 @@
 ![Launch Game](../resources/sequenceDiagramPics/LaunchGame.PNG)
 
 # Main Menu
-![MainMenu](../resources/sequenceDiagramPics/MainMenu.PNG)
+![MainMenu](../resources/sequenceDiagramPics/MainMenu.png)
 
 # Online Menu Display
 ![OnlineMenu](../resources/sequenceDiagramPics/onlineMenuDisplay.png)
