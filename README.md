@@ -21,5 +21,5 @@ Play against friends or strangers in an intense battle to be crowned snowball ki
 |[Non-Goals](artifacts/NonGoals.md)|9-23-22|
 |[UI/UX](artifacts/UI.md)|9-23-22|
 |[Class Diagram](artifacts/ClassDiagram.md)|9-23-22|
-|[List of Classes](artifacts/ListOfClasses.md|9-30-22|
+|[List of Classes](artifacts/ListOfClasses.md)|9-30-22|
 |[List of Methods](artifacts/listOfMethods.md)|9-30-22|
