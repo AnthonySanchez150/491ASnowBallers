@@ -9,6 +9,7 @@ Below is a short list of terms used throughout these use cases.
 | Client | The user accessing a server that is being hosted by another user. |
 | Lobby | A virtual room where one player waits for another player to connect prior to starting the game.
 | Reload | Replenish the number of snowballs available to throw. For example, if a player runs out of snowballs to throw, they must reload to get more snowballs to throw.|
+| Hit | A snowball collides with a user's collider.|
 
 | Use Case 1 P0               | Launch Game  |
 |:----------------------------|:------------|
