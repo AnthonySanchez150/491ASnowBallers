@@ -6,7 +6,10 @@ SnowBallers is an online player-versus-player virtual reality snowball fight sim
 Play against friends or strangers in an intense battle to be crowned snowball king!
 
 |Team Members|[Dylan Ayala](https://github.com/BlackSwiss)|[Anthony Sanchez](https://github.com/AnthonySanchez150)|[Brian Park](https://github.com/brianpark24)|[Guadalupe Santos](https://github.com/alfonsantos6)|
-|:-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
+
+|Code Repository|[Snowballers-Project](https://github.com/BlackSwiss/SnowBallers-Project)|
+|:-|:-:|
 
 &nbsp;
 
