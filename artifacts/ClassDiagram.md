@@ -1,5 +1,8 @@
+# Class Diagram Terms
+![Frontend Class Diagram](../resources/ClassDiagramTerms.png)
+
 # Front-end Classes
-![Frontend Class Diagram](../resources/ClassDiagram-Frontend.png)
+![Frontend Class Diagram](../resources/FrontendDiagram.png)
 
 # Back-end Classes
-![Backend Class Diagram](../resources/ClassDiagram-Backend.png)
+![Backend Class Diagram](../resources/BackendDiagram.png)
