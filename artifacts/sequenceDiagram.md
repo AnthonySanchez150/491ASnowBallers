@@ -1,5 +1,5 @@
 # Launch Game
-![Launch Game](../resources/sequenceDiagramPics/LaunchGame.PNG)
+![Launch Game](../resources/sequenceDiagramPics/LaunchGame.png)
 
 # Main Menu
 ![MainMenu](../resources/sequenceDiagramPics/MainMenu.png)
@@ -11,16 +11,16 @@
 ![Options](../resources/sequenceDiagramPics/enterOptions.png)
 
 # Host a Lobby
-![HostLobby](../resources/sequenceDiagramPics/HostALobby.PNG)
+![HostLobby](../resources/sequenceDiagramPics/HostALobby.png)
 
 # Connect To Lobby
-![ConnectLobby](../resources/sequenceDiagramPics/ConnectToLobby.PNG)
+![ConnectLobby](../resources/sequenceDiagramPics/ConnectToLobby.png)
 
 # Disconnect To Lobby
-![DisconnectLobby](../resources/sequenceDiagramPics/DisconnectFromLobby.PNG)
+![DisconnectLobby](../resources/sequenceDiagramPics/DisconnectFromLobby.png)
 
 # Close Lobby
-![CloseLobby](../resources/sequenceDiagramPics/CloseALobby.PNG)
+![CloseLobby](../resources/sequenceDiagramPics/CloseALobby.png)
 
 # Start Game
 ![StartGame](../resources/sequenceDiagramPics/startGame.png)
