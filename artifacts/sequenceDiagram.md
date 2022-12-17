@@ -29,7 +29,7 @@
 ![StartTimer](../resources/sequenceDiagramPics/spawnTimer.png)
 
 # Player spawn in game
-![PlayerSpawn](../resources/sequenceDiagramPics/playersSpawnInGame.png)
+![PlayerSpawn](../resources/sequenceDiagramPics/PlayersSpawnInGame.png)
 
 # Snowball hit player
 ![SnowballHit](../resources/sequenceDiagramPics/snowballHitsPlayer.png)
