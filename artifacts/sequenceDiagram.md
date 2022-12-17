@@ -44,7 +44,7 @@
 ![Movement](../resources/sequenceDiagramPics/movement.png)
 
 # End Game
-![EndGame](../resources/sequenceDiagramPics/endgame.png)
+![EndGame](../resources/sequenceDiagramPics/endGame.png)
 
 # Return to menu
 ![ReturnToMenu](../resources/sequenceDiagramPics/returnMenu.png)
