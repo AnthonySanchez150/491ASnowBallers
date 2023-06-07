@@ -11,6 +11,9 @@ Play against friends or strangers in an intense battle to be crowned snowball ki
 |Code Repository|[Snowballers-Project](https://github.com/BlackSwiss/SnowBallers-Project)|
 |:-|:-:|
 
+|Demo Video|[Snowballers-VR](https://www.youtube.com/watch?v=jHana6NVS0Y)|
+|:-|:-:|
+
 &nbsp;
 
 # Deliverables
